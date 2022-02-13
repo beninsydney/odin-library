@@ -1,0 +1,7 @@
+.book-form { padding: 0; margin: 0; display: flex; flex-direction: column }
+.book-form input { display: block; padding: 0.5rem; border-radius: 0.25rem; border: none; background-color: #F5F5F5; display: block; margin-bottom: 1rem }
+.book-form .pages { display: grid; grid-template-columns: 1fr 1fr; grid-gap: 2rem }
+.book-form input[type=number] { width: 40}
+.book-form .options { display: flex }
+.book-form .options button { margin-right: 1rem }
+.book-form .options button:last-of-type { margin-right: 0 }

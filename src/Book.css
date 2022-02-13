@@ -1,0 +1,6 @@
+.book { border-top: 1px dotted #CCC; margin-top: 1rem; padding-top: 1rem }
+.book-title { margin: 0; font-weight: normal; margin-bottom: 0.25rem }
+.book-details { margin-bottom: 0.5rem; display: flex; width: 100% }
+.book-status { color: #999; flex-grow: 2; text-align: right }
+.book-options { margin: 1rem 0 0 0; padding: 0; text-align: right }
+.book-options button { margin-left: 1rem }
